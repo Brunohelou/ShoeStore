@@ -13,4 +13,4 @@ Thanks to all the authors of these contents for the knowledge and material provi
 
 Image of a conversation 
 
-![alt text](https://github.com/Brunohelou/ShoeStore/blob/main/example.jpg?raw=true)
+![alt text](https://github.com/Brunohelou/ShoeStore/blob/main/example.png?raw=true)
