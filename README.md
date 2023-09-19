@@ -11,6 +11,7 @@ embedding with RetrievalQA example: https://swharden.com/blog/2023-07-30-ai-docu
 
 LLM finetune x embedding: https://www.youtube.com/watch?v=Q9zv369Ggfk
 
+Shoes Database source: https://github.com/iffi96/Shoe-store-data-json/blob/master/data003.json
 
 Thanks to all the authors of these contents for the knowledge and material provided. 
 
